@@ -92,7 +92,7 @@ body {
   border-radius: 100%;
   transition: transform .5s ease-in-out;
 
-  background-image:  url("img/haribo.jpg");
+  background-image:  url("img/haribo.jpeg");
   background-position: center;
   background-size: cover; 
 
